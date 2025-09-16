@@ -1,6 +1,6 @@
 public class Graph_main {
 public static void main(String[] args) {
-   //Graph_adjacency_matrix graph_adjacency_matrix=new Graph_adjacency_matrix(4);
+   Graph_adjacency_matrix graph_adjacency_matrix=new Graph_adjacency_matrix(4);
    Graph_adjacency_matrix_weighted graph_adjacency_matrix_weighted=new Graph_adjacency_matrix_weighted(4);
 
    //graph_adjacency_matrix.addEdge(0,1);
